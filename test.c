@@ -2,6 +2,6 @@
 
 int main(){
 
-prinf("hello world");
-
+printf("hello world  !!!!!! \n ");
+printf("huste test");
 ]
